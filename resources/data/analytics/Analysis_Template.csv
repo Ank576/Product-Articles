@@ -1,0 +1,18 @@
+Repository,Product-Articles
+Author,Ankit Saxena
+Purpose,Educational Resource - Product Analytics & Analysis Framework
+Description,A curated collection of Product Requirements Documents (PRDs) and analysis frameworks for product managers and developers
+Version,1.0
+Last Updated,January 2026
+License,Educational Use
+Source,https://github.com/Ank576/Product-Articles
+
+Analysis Step,Description,Key Questions,Deliverable,Timeline,Owner
+1. Define Business Questions,Clarify what you want to understand and what decisions need to be made,What problem are we solving? What metrics matter? What's success?,Business Question Document,Week 1,Product Manager
+2. Identify Relevant Events,Determine which user interactions and events are important to track,What actions indicate user engagement? Which features matter most? What defines conversion?,Event Mapping Document,Week 1-2,Analytics Lead
+3. Set Up Tracking,Implement event tracking in your product using analytics tools,Which tool are we using? How are events structured? What custom parameters needed?,Tracking Implementation Plan,Week 2-3,Engineering & Analytics
+4. Collect Data,Gather data from your tracking implementation and ensure quality,Is data being collected correctly? Are there gaps? Is data quality high?,Data Quality Report,Week 3-4,Analytics Team
+5. Analyze Trends,Examine patterns and trends in the collected data,What trends are emerging? What's the user journey? How do cohorts differ?,Trend Analysis Report,Week 4-5,Analytics Lead
+6. Draw Insights,Identify actionable insights and patterns from the data,What conclusions can we draw? What's surprising? What patterns repeat?,Insights Document,Week 5-6,Product Manager & Analytics
+7. Take Action,Create action items and implement changes based on insights,What changes should we make? What's the priority? What's the impact?,Action Plan & Implementation,Week 6-7,Product & Engineering Teams
+8. Iterate,Repeat the process with new questions and refinements,What did we learn? What changed? What's next?,Updated Metrics Dashboard,Ongoing,All Teams
